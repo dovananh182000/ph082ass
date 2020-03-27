@@ -9,10 +9,11 @@ import { SileComponent } from './sile/sile.component';
 import { HeaderComponent } from './header/header.component';
 import { TopBarComponent } from './top-bar/top-bar.component';
 import { HeaderButtonComponent } from './header-button/header-button.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   imports:      [ BrowserModule, FormsModule ],
-  declarations: [ AppComponent, HelloComponent, BodyComponent, SileComponent, HeaderComponent, TopBarComponent, HeaderButtonComponent ],
+  declarations: [ AppComponent, HelloComponent, BodyComponent, SileComponent, HeaderComponent, TopBarComponent, HeaderButtonComponent, FooterComponent ],
   bootstrap:    [ AppComponent ]
 })
 export class AppModule { }
