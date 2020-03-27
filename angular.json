@@ -23,7 +23,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/abcd/default.css",
+               "src/abcd/nivo-slider.css",
+                "src/abcd/style.css"
+
+
             ],
             "scripts": []
           },
