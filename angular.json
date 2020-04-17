@@ -24,7 +24,7 @@
             ],
             "styles": [
               "src/styles.css",
-              "src/abcd/css/styles.css",
+              "src/abcd/css/style.css",
               "src/abcd/css/default.css",
                "src/abcd/css/nivo-slider.css",
                 "src/abcd/css/style.css"
